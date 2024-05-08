@@ -1,0 +1,178 @@
+painting_id,title ,artist_id ,museum_id,year ,period,height_cm,width_cm,genre,medium,inventarisation_number,reference 
+P052,Bloemenruiker,Q2828943,Q377500,1937,20th century,24,8,abstract,oil paint,11988,null
+P032,Miss Armstrong,Q21344629,Q1471477,1947,20th century,58.5,48,still life,oil paint,0000-0000 (2990),null
+P054,Het voorouderlijk patroon,Q3416072,Q377500,1962,20th century,100,81,surrealism,oil paint,null,null
+P055,Madame Veto (reeks van de Marie-Antoinettes),Q3416072,Q377500,1965,20th century,116.5,89,surrealism,oil paint,null,null
+P010,Landschap met koeien,Q2058289,Q1948674,1831,19th century,50.5,100.5,landscape,oil paint,0000.GRO0014.I,null
+P011,Zonsondergang ,Q2058289,Q1948674,1831,19th century,70.5,122,landscape,oil paint,0000.GRO0015.I,null
+P056,Bosrand in Zeeland,Q2058289,Q377500,1878,19th century,116,176,landscape,oil paint,null,null
+P057,Een vijver te Hingene,Q2058289,Q377500,1886,19th century,155,222,landscape,oil paint,null,null
+P058,Ingang van het klooster van Schilde,Q2058289,Q377500,null,null,119.5,176,landscape,oil paint,null,null
+P059,Kind met ballon,Q443779,Q377500,1921,20th century,72.5,41.3,cubism,oil paint,null,null
+P060,Bretoense kust,Q466668,Q377500,1901,20th century,108,146.5,landscape,oil paint,null,null
+P203,De klippenkust van Sanary (Provence),Q466668,Q2365880,null,20th century,81.5,61.5,landscape,oil paint,1936-O,https://www.mskgent.be/collectie/1936-o
+P204,Kaai in Mechelen,Q466668,Q2365880,1906,20th century,136.5,86.7,landscape,oil paint,1942-AK,https://www.mskgent.be/collectie/1942-ak
+P205,Het atelier van de kunstenaar,Q21637181,Q2365880,1960,20th century,80,70.1,realism,oil paint,1975-B,https://www.mskgent.be/collectie/1975-b
+P038,Gezegend bos ,Q274121,Q1471477,null,20th century,64,45,self portrait,aquarel,0000-0000(3042),null
+P061,Architectuurstudie,Q274121,Q377500,null,null,26.3,20,abstract,gouache,null,null
+P062,architectuurstudie,Q274121,Q377500,null,null,16.7,24.6,abstract,gouache,null,null
+P063,De gouden stad,Q274121,Q377500,1955,20th century,150,100,abstract,oil paint,null,null
+P064,De gouden stad,Q274121,Q377500,1955,20th century,25.5,16.2,abstract,aquarel,null,null
+P065,De oosterse wijding,Q274121,Q377500,1956,20th century,80,67.7,abstract,oil paint,null,null
+P066,De gouden stad,Q274121,Q377500,1955,20th century,16.2,9.6,abstract,aquarel,null,null
+P067,De gouden stad,Q274121,Q377500,1955,20th century,50.5,40.5,abstract,aquarel,null,null
+P068,Gezamelijk werd,Q274121,Q377500,1947,20th century,87.7,160,abstract,oil paint,null,null
+P069,Landschap,Q274121,Q377500,null,null,44.3,55.8,abstract,gouache,null,null
+P070,Meisje met de spiegel,Q274121,Q377500,null,null,25.7,19.9,abstract,gouache,null,null
+P071,Moderne compositie,Q274121,Q377500,1951,20th century,79,64,abstract,oil paint,null,null
+P072,Portret van de kunstenaar,Q274121,Q377500,1947,20th century,115,81,abstract,oil paint,null,null
+P073,Reisherinneringen uit Portugal,Q274121,Q377500,null,null,19.9,25.6,abstract,aquarel,null,null
+P074,Schetsboek,Q274121,Q377500,null,null,10.8,17.3,abstract,aquarel,null,null
+P075,Studie voor een decoratieve compositie 1/2,Q274121,Q377500,null,null,19,36,abstract,gouache,null,null
+P076,Studie voor een decoratieve compositie 2/2,Q274121,Q377500,null,null,19,36,abstract,gouache,null,null
+P077,Studies 1/3,Q274121,Q377500,null,null,22,29,abstract,gouache,null,null
+P078,Studies 2/3,Q274121,Q377500,null,null,18,20.2,abstract,gouache,null,null
+P079,Studies 3/3,Q274121,Q377500,null,null,13.4,17.3,abstract,gouache,null,null
+P080,Studies 1/2,Q274121,Q377500,null,null,21.4,26,abstract,gouache,null,null
+P081,Studies 2/2,Q274121,Q377500,null,null,19.5,27.5,abstract,gouache,null,null
+P082,Studies 1/2,Q274121,Q377500,null,null,20.7,26,abstract,gouache,null,null
+P083,Studies 2/2,Q274121,Q377500,null,null,21,26.3,abstract,gouache,null,null
+P088,Panorama van Saint-Paul-de-Vence,Q6557303,Q377500,null,null,46,55,landscape,oil paint,null,null
+P089,Compositie,Q3292419,Q377500,1957,20th century,14.6,18.9,abstract,gouache,null,null
+P090,Thalassa of het eerste element,Q3292419,Q377500,1967,20th century,90,116,abstract,oil paint,null,null
+P206,Het Gardameer (Verona),Q3724632,Q2365880,null,20th century,45,51.3,impressionism,oil paint,1913-E,https://www.mskgent.be/collectie/1913-e
+P091,Eenzaamheid. Sneeuw,Q21645086,Q377500,1942,20th century,27,25.7,landscape,gouache,null,null
+P092,Vlaamse boomgaard,Q21345058,Q377500,null,null,121,102,landscape,oil paint,null,null
+P049,Hofstede in Brabant ,Q21345058,Q1471477,1890,19th century,140.1,120.2,landscape,oil paint,0000-0000(1249),http://anet.be/record/opackmska/a::art.978
+P107,Winter Holiday,Q21848563,Q377500,1983,20th century,55.5,73.3,abstract,aquarel,10149,null
+P095,Azalea's en viooltjes,Q1847672,Q377500,null,null,92,72.5,still life,oil paint,null,null
+P093,De abacus,Q123385039,Q377500,null,null,60,50,surrealism,oil paint,null,null
+P094,De draak,Q123385039,Q377500,null,null,50,40,surrealism,oil paint,null,null
+P235,Verdwaalde nimf uit het gevolg van Diana,Q21645446,Q2365880,1826,19th century,140.3,197.7,neoclassicism,oil paint,1826-E,https://www.mskgent.be/collectie/1826-e
+P050,Ontbijt op de hoeve ,Q21396068,Q1471477,null,18th century,45,54.8,portrait,black chalk ,0000-0000(1049),http://anet.be/record/opackmska/a::art.3973
+P237,Zelfportret,Q21646338,Q2365880,null,20th century,40.2,40.2,expressionism,oil paint,1979-A,https://www.mskgent.be/collectie/1979-a
+P099,Poezekens,Q55770682,Q377500,1943,20th century,70,80,abstract,oil paint,7630,null
+P003,Caritas Romana,Q2228950,Q1948674,null,18th century,118.6,99.3,allegory,oil paint,0000.GRO1619.I,null
+P017,Ecce homo,Q2228951,Q1948674,1776,18th century,56,47,religious scene,oil paint,0000.GRO0047.I,null
+P207,Zelfportret,Q21646542,Q2365880,null,20th century,60.5,50,neorealism,oil paint,1994-V,https://www.mskgent.be/collectie/1994-v
+P208,Zelfportret,Q21646543,Q2365880,null,20th century,55.5,46.5,neorealism,oil paint,1994-T,https://www.mskgent.be/collectie/1994-t
+P209,Balkon met zeegezicht,Q21646544,Q2365880,null,20th century,60,79.7,naive art,oil paint,1978-Y,https://www.mskgent.be/collectie/1978-y
+P210,De lente van het leven,Q21646545,Q2365880,null,20th century,114.5,108.8,art déco,oil paint,1978-V,https://www.mskgent.be/collectie/1978-v
+P211,Meisje met witte schort,Q21646546,Q2365880,null,20th century,170.8,90.5,art déco,oil paint,1978-W,https://www.mskgent.be/collectie/1978-w
+P212,Stilleven met Japanse prent,Q21646547,Q2365880,1929,20th century,75.5,61.8,new objectivity,oil paint,1931-R,https://www.mskgent.be/collectie/1931-r
+P213,Stilleven met penselen,Q21646548,Q2365880,null,20th century,79.9,60,new objectivity,oil paint,1978-X,https://www.mskgent.be/collectie/1978-x
+P214,Portret van mevrouw O. De Reuse,Q21646549,Q2365880,null,20th century,56.6,40.4,neorealism,oil paint,1994-U,https://www.mskgent.be/collectie/1994-u
+P215,Mijn atelier in juni,Q1821051,Q2365880,1910,20th century,81,121,impressionism,oil paint,1912-B,https://www.mskgent.be/collectie/1912-b
+P216,Zomerochtend,Q1821052,Q2365880,1915,20th century,90.5,115.7,impressionism,oil paint,1950-BA,https://www.mskgent.be/collectie/1950-ba
+P217,Weerspiegelingen op de zee bij Menton (Côte d’Azur),Q1821053,Q2365880,1926,20th century,44.5,44.3,impressionism,oil paint,1950-BD,https://www.mskgent.be/collectie/1950-bd
+P218,De Coupure in Gent,Q1821053,Q2365880,1901,20th century,80.8,161.4,impressionism,oil paint,1950-AZ,https://www.mskgent.be/collectie/1950-az
+P219,Landschap,Q109989170,Q2365880,null,19th century,31.3,39.5,romanticist,oil paint,S-181,https://www.mskgent.be/collectie/s-181
+P220,Zeebonken,Q3560732,Q2365880,1884,19th century,202,266,realism,oil paint,1886-C,https://www.mskgent.be/collectie/1886-c
+P053,Gesprek,Q3061395,Q377500,1966,20th century,194.5,196,abstract,oil paint,7498,null
+P046,Still life,Q206524,Q1471477,1917,20th century,34.5,53,still life,oil paint,0000-0000(2948),null
+P096,Abstracte compositie nr. 5,Q206524,Q377500,1920,20th century,63.4,49.4,abstract,oil paint,8579,null
+P097,Constrcutie,Q206524,Q377500,1920,20th century,48,42,abstract,oil paint,12035,null
+P098,Glaswerk,Q206524,Q377500,1919,20th century,52.5,43,abstract,oil paint,6957,null
+P100,Boraine,Q17625500,Q377500,1892,19th century,62,41.5,portrait,oil paint,4534,null
+P187,Nature morte avec roses jaunes,Q2213493,Q21511875,null,20th century,65,85,still life,oil paint,BA.AMC.05b.2014.002594,https://collections.liegemusees.be/jsp/portal/index.jsp?action=portal_direct_view&record=musee:MUS_BIEN:85994
+P101,Villefranche. De oude kerk,Q55768888,Q377500,1923,20th century,49.5,64.5,landscape,oil paint,6910/7,null
+P102,Hoek van een interieur,Q55769874,Q377500,null,null,45.4,58.2,still life,aquarel. gouache. oil paint,6910/10,null
+P222,Mijn laatste reis,Q4725869,Q2365880,null,20th century,90.6,120.1,naive art,oil paint,1959-B,https://www.mskgent.be/collectie/1959-b
+P223,Carnaval,Q4725870,Q2365880,1981,20th century,119.5,100,naive art,oil paint,1981-K,https://www.mskgent.be/collectie/1981-k
+P224,De harem,Q4725871,Q2365880,null,20th century,80.5,100.5,naive art,oil paint,1981-J,https://www.mskgent.be/collectie/1981-j
+P028,Nude with red curtain,Q4725873,Q1471477,1955,20th century,44.8,26,expressionism,oil paint,0000-0000 (2879),null
+P029,The angel and the kids,Q4725874,Q1471477,1939,20th century,179.1,129.3,portrait,oil paint,0000-0000 (2572),null
+P030,Portrait of a women ,Q4725875,Q1471477,null,20th century,63,48,portrait,oil paint,0000-0000 (2370),null
+P108,Quelque chose de coeur pour Irène et Scut,Q3161866,Q377500,1965,20th century,16,22,surrealism,oil paint,11871,null
+P109,Het hoge gras,Q3161867,Q377500,1946,20th century,60.2,73.5,abstract,oil paint,11869,null
+P111,Lolita,Q3161869,Q377500,1960,20th century,35.2,40,surrealism,oil paint,null,null
+P112,Epulu,Q16222716,Q377500,1953,20th century,139.5,104.5,abstract,oil paint,6725,null
+P113,Het portret van Alice,Q16222717,Q377500,1920,20th century,80,60,portrait,oil paint,7955,null
+P114,Huwelijk bij de pygmeeën - Dansen 1/3,Q16222718,Q377500,1953,20th century,190,90,abstract,oil paint,8214,null
+P115,Huwelijk bij de pygmeeën - Dansen 2/3,Q16222719,Q377500,1953,20th century,191,90,abstract,oil paint,8214,null
+P116,Huwelijk bij de pygmeeën - Dansen 3/3,Q16222720,Q377500,1953,20th century,192,90,abstract,oil paint,8214,null
+P117,Hommage aan Spilliaert,Q123385090,Q377500,1972,20th century,60,50,abstract,oil paint,9743,null
+P118,Portret van een jong meisje,Q16663047,Q377500,1979,20th century,72.9,55,abstract,oil paint,11416,null
+P225,De Maagd Maria en het Kind omringd door engelen,Q21176693,Q2365880,null,20th century,10,14,naive art,oil paint,1950-AQ,https://www.mskgent.be/collectie/1950-aq
+P120,Frahan gezien vanaf Rochehaut,Q275813,Q377500,null,null,110,115,landscape,oil paint,6173,null
+P121,Landschap in de Morvan,Q275813,Q377500,1928,20th century,100,200,landscape,oil paint,4819,null
+P122,Portret van Marie Mauquoy-Hendrickx,Q275813,Q377500,1972,20th century,70,60,portrait,oil paint,10993,null
+P123,Stilleven,Q275813,Q377500,null,null,51,61,still life,oil paint,6975,null
+P031,Nudes ,Q275813,Q1471477,1935,20th century,147.5,90,expressionism,oil paint,0000-0000 (2314),null
+P124,Witte azalea,Q21645620,Q377500,null,null,46.5,50,still life,oil paint,6910 15,null
+P226,Familierelieken,Q21645662,Q2365880,1973,20th century,65.2,54.5,neorealism,oil paint,1983-I,https://www.mskgent.be/collectie/1983-i
+P227,Portret van de moeder van de kunstenares,Q21645662,Q2365880,1947,20th century,168.3,146.2,neorealism,oil paint,1983-J,https://www.mskgent.be/collectie/1983-j
+P042,The Saint Anthony church in Antwerp ,Q2655791,Q1471477,1904,20th century,26,35,landscape,oil paint,0000-0000(1609),http://anet.be/record/opackmska/a::art.2972
+P125,Catalaanse suite 1: Zonder titel,Q123385104,Q377500,1989,20th century,100,90,abstract,oil paint,10990,null
+P228,Lamoraal. de graaf van Egmont. neemt afscheid van zijn vrouw,Q2825435,Q2365880,1826,19th century,163,213.5,neoclassicism,oil paint,1826-D,https://www.mskgent.be/collectie/1826-d
+P229,Jonge Poolse vrijheidsstrijder,Q2825435,Q2365880,1824,19th century,73,61,neoclassicism,oil paint,2005-AI,https://www.mskgent.be/collectie/2005-ai
+P230,Landschap,Q21645677,Q2365880,1882,19th century,30.2,38,romanticist,oil paint,S-141,https://www.mskgent.be/collectie/s-141
+P033,Azalea,Q21498465,Q1471477,1906,20th century,59,49,still life,oil paint,0000-0000(2599),null
+P126,de roze sjaal,Q233088,Q377500,null,null,81.5,65.5,abstract,oil paint,4825,null
+P186,Portrait de Jeune Fille,Q233088,Q21511875,1924,20th century,65,54,portrait,oil paint,BA.AMC.05b.1939.21499,https://collections.liegemusees.be/jsp/portal/index.jsp?action=portal_direct_view&record=musee:MUS_BIEN:28205
+P132,Azaleaserre,Q18603503,Q377500,null,20th century,81,100,landscape,oil paint,3757,https://fine-arts-museum.be/nl/de-collectie/marie-antoinette-marcotte-azaleaserre?artist=marcotte-marie-antoinette
+P043,Under the glass ceiling,Q18603503,Q1471477,1921,20th century,63.9,52.9,still life,oil paint,0000-0000(1928),null
+P051,Gezicht op de collegiale Sint-Michiels- en Sint-Goedelekerk te Brussel vanuit het Zuidwesten,,Q377500,1725,18th century,64,80,landscape,null,314,null
+P133,Landschap,Q123388859,Q377500,null,20th century,39.6,30,landscape,oil paint,7724 / 4,https://fine-arts-museum.be/nl/de-collectie/jacqueline-mathus-landschap?artist=mathus-jacqueline
+P134,Zelfportret,Q463270,Q377500,null,19th century,16,11.8,self portrait,chalk,12052,https://fine-arts-museum.be/nl/de-collectie/constance-mayer-toegeschreven-aan-zelfportret?artist=mayer-constance-1
+P024,II Zattare in Venetie ,Q4967957,Q1471477,1898,19th century,27,76,landscape,aquarel ,0000-0000 (1277),null
+P138,Het verlaten van de school in de winter,Q2120094,Q377500,null,null,82,102,landscape,oil paint,4874,https://fine-arts-museum.be/nl/de-collectie/jenny-montigny-het-verlaten-van-de-school-in-de-winter?artist=montigny-jenny-1
+P037,Shelfloo in de sneeuw,Q4970064,Q1471477,null,19th century,41,27,landscape,aquarel. gouache ,0000-0000(1822/30),null
+P195,Roses,Q52148627,Q21511875,1935,20th century,41.5,32,still life,oil paint,BA.AMC.05a.2017.005059,https://collections.liegemusees.be/ark:/12345/00295083
+P196,Roses,Q52148627,Q21511875,1950,20th century,27,21.3,still life,oil paint,BA.AMC.05a.2017.005060,https://collections.liegemusees.be/ark:/12345/00295084
+P197,Roses,Q52148627,Q21511875,1939,20th century,43.7,36.2,still life,oil paint,BA.AMC.05b.2017.005057,https://collections.liegemusees.be/ark:/12345/00295082
+P198,Anémones,Q52148627,Q21511875,1950,20th century,36.3,28.3,still life,oil paint,BA.AMC.05b.2017.005061,https://collections.liegemusees.be/ark:/12345/00295085
+P199,Anémones,Q52148627,Q21511875,1950,20th century,56.5,42.4,still life,oil paint,BA.AMC.05b.2017.005062,https://collections.liegemusees.be/ark:/12345/00295086
+P025,Still Life of Fish and Cat,Q265398,Q1471477,1621,17th century,51.5,74.5,still life,oil paint,0000-0000 (834),null
+P231,Landschap in Zuid-Frankrijk,Q2413750,Q2365880,1920,20th century,65.5,50.5,expressionism,oil paint,2004-D,https://www.mskgent.be/collectie/2004-d
+P140,Na de repetitie,Q3290724,Q377500,null,null,55,65.5,still life,oil paint,6225,Kunstwerk « Na de repetitie » – Koninklijke Musea voor Schone Kunsten van België (fine-arts-museum.be)
+P141,Peren op een bord,Q3290724,Q377500,null,null,20.2,26.3,still life,oil paint,null,null
+P142,Serie 19772,Q107476022,Q377500,null,20th century,40,40,abstract,oil paint,9195/1,De collectie - Resultaten voor kunstenaar « Rita REYCHLER » – Koninklijke Musea voor Schone Kunsten van België (fine-arts-museum.be)
+P143,Serie 19772,Q107476022,Q377500,null,20th century,40,40,abstract,oil paint,9195/2,null
+P144,Serie 19772,Q107476022,Q377500,null,20th century,40,40,abstract,oil paint,9195/3,null
+P145,Serie 19772,Q107476022,Q377500,null,20th century,40,40,abstract,oil paint,9195/4,null
+P146,Serie 19772,Q107476022,Q377500,null,20th century,40,40,abstract,oil paint,9195/5,null
+P045,Golden Evening,Q21396042,Q1471477,1959,20th century,49,89.5,landscape,oil paint,0000-0000(2875),null
+P147,Stad en Zon ,Q21396042,Q377500,null,20th century,70,80,landscape,oil paint,10086,Kunstwerk « Stad en zon » – Koninklijke Musea voor Schone Kunsten van België (fine-arts-museum.be)
+P150,De kalkoen ,Q2836650,Q377500,1902,20th century,83,95,still life,oil paint,3654,https://fine-arts-museum.be/nl/de-collectie/artist/ronner-alice-1?letter=r
+P151,De papavers ,Q2836650,Q377500,null,20th century,82.5,72.5,still life,oil paint,3997,null
+P152,De tinnen kruik ,Q2836650,Q377500,1987,20th century,80,64,still life,oil paint,3057,null
+P154,Portret van een jonge vrouw,Q3491037,Q377500,1842,19th century,116.5,89.5,portrait,oil paint,10233,https://fine-arts-museum.be/nl/de-collectie/sophie-rude-fremiet-portret-van-een-jonge-vrouw?letter=r&artist=rude-sophie-1
+P156,Schilderij op twee niveau's,Q123385175,Q377500,1982,20th century,41,41,abstract,oil paint,10190,https://fine-arts-museum.be/nl/de-collectie/lilli-schulte-lilli-lewy-schilderij-op-twee-niveau-s-1?letter=s&artist=schulte-lilli-1
+P157,Portret van Mevrouw Sieburgh,Q457001,Q377500,1879,19th century,103,76,portrait,oil paint,7480,https://fine-arts-museum.be/nl/de-collectie/therese-schwartze-therese-van-duyl-portret-van-mevrouw-sieburgh?letter=s&artist=schwartze-therese-1
+P034,Self portrait ,Q457001,Q1471477,1910,20th century,72,55,portrait,oil paint,0000-0000(1692),null
+P047,Twee mannen op straat ,Q42161824,Q1471477,1955,20th century,62,85,portrait,oil paint,0000-0000(3666),null
+P036,Afdaling,Q12157356,Q1471477,null,20th century,162,130,abstract,oil paint,0000-0000 (3446),null
+P159,Baadsters. Nice. F II-3,Q12157356,Q377500,1945,20th century,60,90,modernism,oil paint,9842,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-baadsters-nice-f-ii-3?artist=staritsky-anna-1
+P160,Compositie. zonder titel,Q12157356,Q377500,null,20th century,72,162.5,modernism,oil paint,10267,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-compositie-zonder-titel?artist=staritsky-anna-1
+P161,Compositie. F I-21,Q12157356,Q377500,null,20th century,195,130,modernism,oil paint,9836,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-compositie-f-i-21?artist=staritsky-anna-1
+P162,Compositie. F IV-17,Q12157356,Q377500,null,20th century,117,74.5,modernism,oil paint,9843,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-compositie-f-iv-17?artist=staritsky-anna-1
+P163,Compositie. F l-19,Q12157356,Q377500,1955,20th century,162,130,modernism,oil paint,9835,null
+P164,Naar de ruimte. F V-11,Q12157356,Q377500,null,20th century,57,73,modernism,null,9844,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-naar-de-ruimte-f-v-11?artist=staritsky-anna-1
+P165,Ontmoetingen. F I-29,Q12157356,Q377500,null,20th century,83.5,103,modernism,oil paint,9838,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-ontmoetingen-f-i-29?artist=staritsky-anna-1
+P166,Personages. F IV-10,Q12157356,Q377500,1965,20th century,115.5,103,modernism,oil paint,9839,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-personages-f-iv-10?artist=staritsky-anna-1
+P167,Tussen twee tijden. F I-6,Q12157356,Q377500,null,20th century,145.5,114,modernism,oil paint,9837,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-tussen-twee-tijden-f-i-6?artist=staritsky-anna-1&page=2
+P168,V. 2370. F I-23,Q12157356,Q377500,null,20th century,116,89,modernism,oil paint,9841,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-v-2370-f-i-23?artist=staritsky-anna-1&page=2
+P169,Verdeling van de ruimte. F I-I,Q12157356,Q377500,null,20th century,81,130,modernism,oil paint,9840,https://fine-arts-museum.be/nl/de-collectie/anna-staritsky-verdeling-van-de-ruimte-f-i-i?artist=staritsky-anna-1&page=2
+P232,Vrouw uit de Provence,Q21696861,Q2365880,null,20th century,75.5,57.5,realism,oil paint,1933-S,https://www.mskgent.be/collectie/1933-s
+P044,A view on the Tuileries,Q17350987,Q1471477,1938,20th century,64,89.5,landscape,oil paint,0000-0000(2375),null
+P174,Mansportret,Q269445,Q377500,null,16th century,22,17,portrait,oil paint,4156,https://fine-arts-museum.be/nl/de-collectie/catharina-van-hemessen-mansportret?letter=v&artist=van-hemessen-catharina-1
+P175,Vrouwenportret,Q269445,Q377500,null,16th century,22,17,portrait,oil paint,4157,https://fine-arts-museum.be/nl/de-collectie/catharina-van-hemessen-vrouwenportret?artist=van-hemessen-catharina-1
+P176,Stilleven,Q5387392,Q377500,1916,20th century,60,80.5,still life,oil paint,10042,https://fine-arts-museum.be/nl/de-collectie/edith-van-leckwyck-stilleven?letter=v&artist=van-leckwyck-edith-1
+P177,Portret van de schilder Otto Vaenius,Q41272959,Q377500,null,17th century,66.5,53,portrait,oil paint,237,https://fine-arts-museum.be/nl/de-collectie/geertrui-van-veen-portret-van-de-schilder-otto-vaenius?letter=v&artist=van-veen-geertrui-1
+P039,,Q2943734,Q1471477,null,20th century,26,41,landscape,oil paint,0000-0000(3415),null
+P040,t Zoete land - Oostduinkerke ,Q2943734,Q1471477,null,20th century,73.5,63.5,portrait,oil paint,0000-0000(3416),null
+P178,Fosforescerende zee,Q2064550,Q377500,1912,20th century,58,85,landscape,oil paint,4046,https://fine-arts-museum.be/nl/de-collectie/marguerite-verboeckhoven-fosforescerende-zee?letter=v&artist=verboeckhoven-marguerite-1
+P233,Portret van een jonge vrouw,Q213163,Q2365880,null,18th century. 19th century,50.7,40.5,neoclassicism,oil paint,1943-U,https://www.mskgent.be/collectie/1943-u
+P236,Zittende vrouw,Q21645417,Q2365880,null,20th century,50.5,61,realism,oil paint,2001-L,https://www.mskgent.be/collectie/2001-l
+P027,Two Girls as Saint Agnes and Saint Dorothy,Q1930132,Q1471477,1650,17th century,89.7,122,portrait,oil paint,0000-0000 (599),null
+P179,Mansportret,Q1930132,Q377500,null,17th century,63,56.5,portrait,oil paint,297,https://fine-arts-museum.be/nl/de-collectie/michaelina-wautier-mansportret?letter=w&artist=wautier-michaelina-1
+P026,Hoofdstudie van een jongeman ,Q1930132,Q1471477,1653,17th century,70,58,portrait,null,0000-0000 (5149),null
+P200,Composition double,Q2066460,Q21511875,1970,20th century,83,166,abstract,acrylic paint,BA.WAL.05a.1988.3323,https://collections.liegemusees.be/jsp/portal/index.jsp?action=portal_direct_view&record=musee:MUS_BIEN:34409
+P201,Montréal (1984),Q2066460,Q21511875,1984,20th century,201.2,24.5,abstract,acrylic paint,BA.AMC.05b.2018.005328,https://collections.liegemusees.be/ark:/12345/00298117
+P180,Marguerite in het huis van Gent,Q2645730,Q377500,1924,20th century,62,40.5,portrait,oil paint,null,https://fine-arts-museum.be/nl/de-collectie/valentine-willaert-fontan-marguerite-in-het-huis-van-gent?artist=willaert-fontan-valentine-1
+P181,Portret van Ferdinand Willaert,Q2645730,Q377500,1924,20th century,92.5,73,portrait,oil paint,11451,https://fine-arts-museum.be/nl/de-collectie/valentine-willaert-fontan-portret-van-ferdinand-willaert?artist=willaert-fontan-valentine-1
+P182,Jeugd,Q27050344,Q377500,null,null,142,106,portrait,oil paint,6194,https://fine-arts-museum.be/nl/de-collectie/marie-willeboordse-jeugd?artist=willeboordse-marie-1
+P234,De moederlijke les,Q21646924,Q2365880,1835,19th century,51.2,40,romanticist,oil paint,S-232,https://www.mskgent.be/collectie/s-232
+P185,Brem,Q3189783,Q377500,null,null,100,120,landscape,oil paint,3960,https://fine-arts-museum.be/nl/de-collectie/juliette-wytsman-brem?artist=wytsman-juliette-1
+P041,Summer on the Maas,Q3189783,Q1471477,1911,18th century,98.5,133.5,landscape,oil paint,0000-0000(1705),null
